@@ -10,6 +10,10 @@ export default function Home() {
         <title>Beast Blast Website</title>
         <meta name="description" content="Beast Blast Website" />
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="facebook-domain-verification"
+          content="rz3cw9josdpr8pdqgcq3pujbgdoz0j"
+        />
       </Head>
 
       <main className={styles.main}>
